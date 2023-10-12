@@ -1,0 +1,7 @@
+Quando você pressiona e solta o botão: 
+O LED se acende enquanto o botão estiver pressionado e se apaga quando você solta o botão. 
+Isso ocorre porque o botão está configurado com resistor de pull-up, o que significa que ele lê LOW quando pressionado.
+
+Quando você pressiona e segura o botão: 
+O LED continua aceso enquanto você mantiver o botão pressionado. 
+Quando você soltar o botão, o LED se apaga após um segundo devido ao atraso.
